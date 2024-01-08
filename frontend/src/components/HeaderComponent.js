@@ -8,7 +8,7 @@ const HeaderComponent = () => {
       <div className="container">
         <Link to="/" className="navbar-brand d-flex align-items-center">
           <FaLeaf className="mr-2" style={{ fontSize: '1.5rem' }} />
-          <span className="font-weight-bold">GreenFertilizer</span>
+          <span className="font-weight-bold">DanisStore</span>
         </Link>
         <button
           className="navbar-toggler"

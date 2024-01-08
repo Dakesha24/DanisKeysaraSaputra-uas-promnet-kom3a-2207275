@@ -21,7 +21,7 @@ const AdminHomeComponent = () => {
       <div className="row w-100 text-white align-items-center">
         <div className="col-md-6 text-left">
           <h1 className="display-4 mb-3" style={{ color: 'rgb(255, 255, 0)', fontWeight: 'bold' }}>
-            DanisShop Admin
+            DanisStore Admin
           </h1>
           <Typist
             className="lead"

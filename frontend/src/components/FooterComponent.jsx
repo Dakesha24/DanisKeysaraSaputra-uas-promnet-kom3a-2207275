@@ -5,7 +5,7 @@ const FooterComponent = () => {
     <div className="container mt-4">
       <hr />
       <footer className="text-center">
-        <p>&copy; 2024 Fishing Store. All rights reserved.</p>
+        <p>&copy; 2024 Danis Store. All rights reserved.</p>
       </footer>
     </div>
   );
